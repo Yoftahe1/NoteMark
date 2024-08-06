@@ -2,6 +2,7 @@
 
 A Note taking desktop app with out-of-the-box markdown support. Built with Electron and React.
 
+<img src="/resources/note.png"/>
 ## Project Setup
 
 ### Install
